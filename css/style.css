@@ -1,0 +1,137 @@
+body{
+    width: 100%;
+    height: 100%;
+    background-color: white;
+}
+.container{
+    width: 100%;
+    height: 100px;
+}
+
+
+.bayrog{
+    width: 100%;
+    height: 200px;
+    background-color: blue;
+}
+
+.bayrog1{
+    width: 100%;
+    height: 15px;
+    background-color: red;
+}
+
+.bayrog2{
+    width: 100%;
+    height: 200px;
+    background-color: white;
+}
+
+.bayrog3{
+    width: 100%;
+    height: 15px;
+    background-color: red;
+}
+
+.bayrog4{
+    width: 100%;
+    height: 200px;
+    background-color: lime;
+}
+
+.oy{
+    width: 100%;
+    height: 25px;
+    color: white;
+    top: 25px;
+}
+
+.oy1{
+    width: 100%;
+    height:2px;
+    margin-left: 13%;
+    color: white;
+
+}
+
+.oy2{
+    width: 100%;
+    height: 2px;
+    margin-left: 19%;
+    color: white;
+
+}
+
+.oy3{
+    width: 100%;
+    height: 2px;
+    margin-left: 10%;
+}
+
+.oy4{
+    width: 100%;
+    height: 6px;
+    margin-left: 9%;
+}
+.oy5{
+    width: 100%;
+    height: 4px;
+    margin-left: 9%;
+ }
+.oy6{
+    width: 100%;
+    height: 4px;
+    margin-left: 9%;
+ }
+
+
+ .oy7{
+    width: 100%;
+    height: 4px;
+    margin-left: 9%;
+ }
+
+
+ .oy8{
+    width: 100%;
+    height: 4px;
+    margin-left: 10%;
+ }
+
+ .oy9{
+    width: 100%;
+    height:2px;
+    margin-left: 13%;
+    color: white
+}
+
+.oy10{
+    width: 100%;
+    height: 2px;
+    margin-left: 19%;
+}
+
+.icon{
+    font-size: 29px;
+    width: 100%;
+    height: 25px;
+    color: white;
+    margin-left: 30%;
+    size: 28rem;
+}
+.icon1{
+    font-size: 29px;
+    width: 100%;
+    height: 25px;
+    color: white;
+    margin-left: 28%;
+}
+.icon2{
+    font-size: 29px;
+    width: 100%;
+    height: 25px;
+    color: white;
+    margin-left: 26%;
+}
+
+
